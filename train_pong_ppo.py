@@ -1,5 +1,5 @@
 """
-train_pong_pixels_ppo.py
+train_pong_ppo.py
 
 Pixel-only PPO training on ALE/Pong-v5. RAM snapshots are written into `info`
 via RAMLoggingWrapper for logging compatibility with the Breakout setup, but the
