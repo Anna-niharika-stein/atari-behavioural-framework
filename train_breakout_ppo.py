@@ -1,5 +1,5 @@
 """
-train_breakout_pixels_ppo.py
+train_breakout_ppo.py
 
 Pixel-only PPO training on ALE/Breakout-v5. RAM snapshots are written into `info`
 via RAMLoggingWrapper for later logging (evaluation/human pipeline), but the
