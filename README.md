@@ -11,7 +11,7 @@ The framework goes beyond score-based evaluation by extracting three classes of 
 ```
 atari-behavioural-framework/
 │
-├── Behavioural Analysis Pipelines/   # Jupyter notebooks: descriptor extraction and analysis
+├── Behavioural Analysis Pipelines/   # Jupyter notebooks for Breakout and Pong: descriptor extraction and analysis
 │                                     # Input: logged CSV traces; Output: figures and tables
 │
 ├── train_breakout_ppo.py             # Train PPO agent on Breakout from scratch
