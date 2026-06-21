@@ -159,7 +159,7 @@ RAM clustering uses `MiniBatchKMeans` with `random_state=0` and `n_init=10`, ens
 
 ---
 
-## Related publication
+## Related work
 
 > Stein, A. (2026). *A Behavioural Framework for Comparing Human and RL Gameplay in Atari Game Environments*. Master's thesis, Eindhoven University of Technology.
 
